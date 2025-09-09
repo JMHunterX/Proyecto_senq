@@ -1,1 +1,3 @@
-console.log("amigos mios")
+for(let i = 0; i <= 9, i++;){
+    console.log("amigos mios")
+}
